@@ -12,8 +12,7 @@ Outcome <br />
 **Standard Grid Omnidirectional Mobile Robot** <br />
 If the robot can move in all directions without any constraints.
 
-![image](https://user-images.githubusercontent.com/110555868/182700594-bafdff1b-e114-4990-824e-c1dd59363e6e.png)
-
+![image](https://user-images.githubusercontent.com/110555868/182705573-b27c7a30-cebd-45d4-81f6-53b67de69123.png)
  
 Figure 2: Omnidirectional Mobile Robot Planned Path on a Standard Grid <br />
 Path cost: 17 <br />
@@ -22,7 +21,6 @@ Path cost: 17 <br />
 If the robot can move only up, down, right, and left.
 
 ![image](https://user-images.githubusercontent.com/110555868/182700631-70bfd201-382a-4fd9-88c3-82b30785a8f2.png)
-
  
 Figure 3: Nondirectional Mobile Robot Planned Path on a Standard Grid <br />
 Path cost: 34 <br />
@@ -30,7 +28,6 @@ Path cost: 34 <br />
 **Cost Grid Omnidirectional Mobile Robot**
 
 ![image](https://user-images.githubusercontent.com/110555868/182700694-53da7b7e-503d-47c9-9d7f-26196f8cf414.png)
-
  
 Figure 4: Omnidirectional Mobile Robot Planned Path on a Cost Grid <br />
 Path cost: 219 <br />
@@ -38,7 +35,6 @@ Path cost: 219 <br />
 **Cost Grid Nondirectional Mobile Robot**
 
 ![image](https://user-images.githubusercontent.com/110555868/182700732-e76c3c59-07bd-473d-aaec-0fb15ba7baf4.png)
-
  
 Figure 5: Nondirectional Mobile Robot Planned Path on a Cost Grid <br />
 Path cost: 442 <br />

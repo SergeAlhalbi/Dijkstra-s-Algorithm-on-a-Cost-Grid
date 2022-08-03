@@ -8,20 +8,34 @@ Figure 1: Cost Grid
 Outcome
 Standard Grid Omnidirectional Mobile Robot
 If the robot can move in all directions without any constraints.
+
+![image](https://user-images.githubusercontent.com/110555868/182700594-bafdff1b-e114-4990-824e-c1dd59363e6e.png)
+
  
 Figure 2: Omnidirectional Mobile Robot Planned Path on a Standard Grid
 Path cost: 17
 Standard Grid Nondirectional Mobile Robot
 If the robot can move only up, down, right, and left.
+
+![image](https://user-images.githubusercontent.com/110555868/182700631-70bfd201-382a-4fd9-88c3-82b30785a8f2.png)
+
  
 Figure 3: Nondirectional Mobile Robot Planned Path on a Standard Grid
 Path cost: 34
 Cost Grid Omnidirectional Mobile Robot
+
+![image](https://user-images.githubusercontent.com/110555868/182700694-53da7b7e-503d-47c9-9d7f-26196f8cf414.png)
+
  
 Figure 4: Omnidirectional Mobile Robot Planned Path on a Cost Grid
 Path cost: 219
 Cost Grid Nondirectional Mobile Robot
+
+![image](https://user-images.githubusercontent.com/110555868/182700732-e76c3c59-07bd-473d-aaec-0fb15ba7baf4.png)
+
  
 Figure 5: Nondirectional Mobile Robot Planned Path on a Cost Grid
 Path cost: 442
 The waypoints found by Dijkstra’s algorithm can now be employed by the trajectory generator since the results are reliable.
+
+

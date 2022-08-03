@@ -19,7 +19,7 @@ import matplotlib.pyplot as plt
 
 # Define Variables
 max_val = 25;   # you can change the size of the map
-max_cost = 50;  # you can change the maximum cost of cells, if max_cost = 2 then the cost grid reduces to a normal grid
+max_cost = 50;  # you can change the maximum cost of cells, if max_cost = 2 then the cost grid reduces to a standard grid
 
 # Define the Map
 np.random.seed(2022)

@@ -8,8 +8,6 @@ Figure 1: Cost Grid
 
 ![image](https://user-images.githubusercontent.com/110555868/182705815-07df1a5f-d1e7-4fd9-b98f-1f035eaf3395.png)
 
-Outcome <br />
-<br />
 **Standard Grid Omnidirectional Mobile Robot** <br />
 If the robot can move in all directions without any constraints.
 
